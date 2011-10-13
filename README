@@ -1,0 +1,10 @@
+This application is an example of php GUI app using Glade(GTK).
+Application realises interface for calculator.
+
+It has two files:
+calc.php - php instructions(the file that should be run)
+calc.glade - glade interface
+
+Glade file may be changed in any Glade editor(I used Glade Interface Designer).
+
+To make it works you need PHP 5.1+ with php-gtk installed. Latter may be found here: http://gtk.php.net/download.php
